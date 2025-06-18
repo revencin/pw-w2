@@ -1,2 +1,2 @@
 # pw-w2
-http://paritebilgisayar.com/program-indir.html PS-W2 PAROGS_STD.exe
+http://paritebilgisayar.com/program-indir.html PS-W2 PAROGS_STD.exe HID_PnP_Demo
